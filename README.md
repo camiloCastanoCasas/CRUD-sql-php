@@ -12,6 +12,8 @@ En cada una de las carpetas se encuentran los diferentes archivos que hacen posi
   - **Carpeta img**: Se encuentra el modelo Entidad-Relacion del proyecto.
   - **Carpeta Insercion**: Se encuentran los archivos relacionados a la insercion de registros en la base de datos.
   - **Carpeta Update**: Se encuentran los archivos relacionados a la actualizacion de registros en la base de datos.
+  - **Carpeta Sql**: Se encuentra la base de datos del proyecto.
+  - **Carpeta js**: Se encuentran los archivos js relacionados con el proyecto.
   
 **Este proyecto cuenta con**
 
